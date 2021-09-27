@@ -26,4 +26,3 @@ In the project directory, you can run:
 ### Heroku Deployment 
 
 
-# project-3
